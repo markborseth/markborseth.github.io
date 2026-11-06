@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi, I’m Mark and I like sports."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mark's Sports Blog",
+    "section": "",
+    "text": "title: “What defines a team’s success in Major League Baseball” author: “Mark Borseth” date: ‘2026-13-2026’ image: “image.png” format: html: code-fold: true —\nThis is a story about what defines a team’s success in Major League Baseball."
+  }
+]
